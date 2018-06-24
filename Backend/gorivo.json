@@ -1,0 +1,17 @@
+[ {
+  "type":"model.Gorivo",
+  "tipGoriva" : "Benzin",
+  "cijenaGoriva" : 2.15
+}, {
+  "type":"model.Gorivo",
+  "tipGoriva" : "Dizel",
+  "cijenaGoriva" : 2.2
+}, {
+  "type":"model.Gorivo",
+  "tipGoriva" : "Bio Dizel",
+  "cijenaGoriva" : 3.3
+}, {
+  "type":"model.Gorivo",
+  "tipGoriva" : "Elektricni pogon",
+  "cijenaGoriva" : 1.15
+} ]

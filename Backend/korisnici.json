@@ -1,0 +1,28 @@
+{
+  "ks" : [ {
+    "type" : "sluzbenik",
+    "korisnickoIme" : "omar",
+    "lozinka" : "omar",
+    "jmbg" : "2139421",
+    "imeIPrezime" : "Omar Iriskic",
+    "jeSluzbenik" : true
+  }, {
+    "type" : "iznajmljivac",
+    "korisnickoIme" : "mirza",
+    "lozinka" : "mirza",
+    "jmbg" : "291398241",
+    "imeIPrezime" : "Mirza Redzic",
+    "jeSluzbenik" : false,
+    "brojTelefona" : "065/213-324",
+    "drzavljanstvo" : "BiH"
+  }, {
+    "type" : "iznajmljivac",
+    "korisnickoIme" : "jasmin",
+    "lozinka" : "jasmin",
+    "jmbg" : "2312132",
+    "imeIPrezime" : "Jasmin Iriskic",
+    "jeSluzbenik" : false,
+    "brojTelefona" : "065/321-324",
+    "drzavljanstvo" : "BiH"
+  } ]
+}

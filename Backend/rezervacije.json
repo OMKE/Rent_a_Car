@@ -1,0 +1,121 @@
+[ {
+  "korisnik" : {
+    "type" : "iznajmljivac",
+    "korisnickoIme" : "mirza",
+    "lozinka" : "mirza",
+    "jmbg" : "291398241",
+    "imeIPrezime" : "Mirza Redzic",
+    "jeSluzbenik" : false,
+    "brojTelefona" : "065/213-324",
+    "drzavljanstvo" : "BiH"
+  },
+  "pocetakRezervacije" : "2018-05-15",
+  "krajRezervacije" : "2018-05-17",
+  "rezervisanoVozilo" : {
+    "type" : "putnicko",
+    "imeVozila" : "Lamborghini Aventador SV",
+    "registracioniBroj" : "231-942",
+    "gorivo" : {
+      "type" : "model.Gorivo",
+      "tipGoriva" : "Benzin",
+      "cijenaGoriva" : 2.15
+    },
+    "cijenaServisa" : 1200.0,
+    "cijenaIznajmljivanja" : 1200.0,
+    "potrosnjaGoriva" : 23.2,
+    "predjenoKM" : 3200.0,
+    "brojSjedista" : 2,
+    "brojVrata" : 3,
+    "kmDoServisa" : 0.0
+  }
+}, {
+  "korisnik" : {
+    "type" : "iznajmljivac",
+    "korisnickoIme" : "mirza",
+    "lozinka" : "mirza",
+    "jmbg" : "291398241",
+    "imeIPrezime" : "Mirza Redzic",
+    "jeSluzbenik" : false,
+    "brojTelefona" : "065/213-324",
+    "drzavljanstvo" : "BiH"
+  },
+  "pocetakRezervacije" : "2018-05-15",
+  "krajRezervacije" : "2018-05-17",
+  "rezervisanoVozilo" : {
+    "type" : "putnicko",
+    "imeVozila" : "Audi A7",
+    "registracioniBroj" : "321-321",
+    "gorivo" : {
+      "type" : "model.Gorivo",
+      "tipGoriva" : "Dizel",
+      "cijenaGoriva" : 2.2
+    },
+    "cijenaServisa" : 250.0,
+    "cijenaIznajmljivanja" : 250.0,
+    "potrosnjaGoriva" : 7.2,
+    "predjenoKM" : 128000.0,
+    "brojSjedista" : 5,
+    "brojVrata" : 5,
+    "kmDoServisa" : 0.0
+  }
+}, {
+  "korisnik" : {
+    "type" : "iznajmljivac",
+    "korisnickoIme" : "mirza",
+    "lozinka" : "mirza",
+    "jmbg" : "291398241",
+    "imeIPrezime" : "Mirza Redzic",
+    "jeSluzbenik" : false,
+    "brojTelefona" : "065/213-324",
+    "drzavljanstvo" : "BiH"
+  },
+  "pocetakRezervacije" : "2018-05-15",
+  "krajRezervacije" : "2018-05-24",
+  "rezervisanoVozilo" : {
+    "type" : "bicikl",
+    "imeVozila" : "Capriollo MB3",
+    "registracioniBroj" : "0",
+    "gorivo" : {
+      "type" : "model.Gorivo",
+      "tipGoriva" : "Ne trosi gorivo",
+      "cijenaGoriva" : 0.0
+    },
+    "cijenaServisa" : 25.0,
+    "cijenaIznajmljivanja" : 25.0,
+    "potrosnjaGoriva" : 0.0,
+    "predjenoKM" : 200.0,
+    "brojSjedista" : 1,
+    "brojVrata" : 0,
+    "kmDoServisa" : 0.0
+  }
+}, {
+  "korisnik" : {
+    "type" : "iznajmljivac",
+    "korisnickoIme" : "jasmin",
+    "lozinka" : "jasmin",
+    "jmbg" : "2312132",
+    "imeIPrezime" : "Jasmin Iriskic",
+    "jeSluzbenik" : false,
+    "brojTelefona" : "065/321-324",
+    "drzavljanstvo" : "BiH"
+  },
+  "pocetakRezervacije" : "2018-05-31",
+  "krajRezervacije" : "2018-05-25",
+  "rezervisanoVozilo" : {
+    "type" : "putnicko",
+    "imeVozila" : "Lamborghini Aventador SV",
+    "registracioniBroj" : "231-942",
+    "gorivo" : {
+      "type" : "model.Gorivo",
+      "tipGoriva" : "Benzin",
+      "cijenaGoriva" : 2.15
+    },
+    "cijenaServisa" : 1200.0,
+    "cijenaIznajmljivanja" : 1200.0,
+    "potrosnjaGoriva" : 23.2,
+    "predjenoKM" : 3200.0,
+    "brojSjedista" : 2,
+    "brojVrata" : 3,
+    "kmDoServisa" : 0.0
+  }
+} ]
