@@ -118,4 +118,34 @@
     "brojVrata" : 3,
     "kmDoServisa" : 0.0
   }
+}, {
+  "korisnik" : {
+    "type" : "iznajmljivac",
+    "korisnickoIme" : "mirza",
+    "lozinka" : "mirza",
+    "jmbg" : "291398241",
+    "imeIPrezime" : "Mirza Redzic",
+    "jeSluzbenik" : false,
+    "brojTelefona" : "065/213-324",
+    "drzavljanstvo" : "BiH"
+  },
+  "pocetakRezervacije" : "2018-06-29",
+  "krajRezervacije" : "2018-06-30",
+  "rezervisanoVozilo" : {
+    "type" : "putnicko",
+    "imeVozila" : "Audi RS7",
+    "registracioniBroj" : "32-32-321A",
+    "gorivo" : {
+      "type" : "model.Gorivo",
+      "tipGoriva" : "Benzin",
+      "cijenaGoriva" : 2.2
+    },
+    "cijenaServisa" : 1500.0,
+    "cijenaIznajmljivanja" : 1500.0,
+    "potrosnjaGoriva" : 15.5,
+    "predjenoKM" : 12000.0,
+    "brojSjedista" : 2,
+    "brojVrata" : 3,
+    "kmDoServisa" : 0.0
+  }
 } ]

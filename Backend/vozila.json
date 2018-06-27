@@ -99,5 +99,21 @@
     "maksimalnaTezina" : 5.0,
     "visina" : 3.0,
     "kmDoServisa" : 0.0
+  }, {
+    "type" : "putnicko",
+    "imeVozila" : "Audi RS7",
+    "registracioniBroj" : "32-32-321A",
+    "gorivo" : {
+      "type" : "model.Gorivo",
+      "tipGoriva" : "Benzin",
+      "cijenaGoriva" : 2.2
+    },
+    "cijenaServisa" : 1500.0,
+    "cijenaIznajmljivanja" : 300.0,
+    "potrosnjaGoriva" : 15.5,
+    "predjenoKM" : 12000.0,
+    "brojSjedista" : 2,
+    "brojVrata" : 3,
+    "kmDoServisa" : 0.0
   } ]
 }
