@@ -1,5 +1,5 @@
 # Rent_a_Car
 
-Simple backend server in Java with simple front end for a required project on my College.
+The simplest and the most unsecured server done in Java for school project purposes
 
 Vanilla JS for frontend.
