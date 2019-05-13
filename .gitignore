@@ -1,0 +1,7 @@
+.DS_Sotre
+_config.yml
+.idea/
+bin/
+.classpath
+.project
+omar.iml
